@@ -1,0 +1,12 @@
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.Data\bin\Debug\net8.0\SparkEcommerce.Infra.Data.deps.json
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.Data\bin\Debug\net8.0\SparkEcommerce.Infra.Data.dll
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.Data\bin\Debug\net8.0\SparkEcommerce.Infra.Data.pdb
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.Data\obj\Debug\net8.0\SparkEcommerce.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.Data\obj\Debug\net8.0\SparkEcommerce.Infra.Data.AssemblyInfoInputs.cache
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.Data\obj\Debug\net8.0\SparkEcommerce.Infra.Data.AssemblyInfo.cs
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.Data\obj\Debug\net8.0\SparkEcommerce.Infra.Data.csproj.CoreCompileInputs.cache
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.Data\obj\Debug\net8.0\SparkEcommerce.Infra.Data.sourcelink.json
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.Data\obj\Debug\net8.0\SparkEcommerce.Infra.Data.dll
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.Data\obj\Debug\net8.0\refint\SparkEcommerce.Infra.Data.dll
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.Data\obj\Debug\net8.0\SparkEcommerce.Infra.Data.pdb
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.Data\obj\Debug\net8.0\ref\SparkEcommerce.Infra.Data.dll

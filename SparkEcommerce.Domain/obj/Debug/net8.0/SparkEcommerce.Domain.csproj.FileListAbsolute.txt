@@ -1,0 +1,12 @@
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Domain\bin\Debug\net8.0\SparkEcommerce.Domain.deps.json
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Domain\bin\Debug\net8.0\SparkEcommerce.Domain.dll
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Domain\bin\Debug\net8.0\SparkEcommerce.Domain.pdb
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Domain\obj\Debug\net8.0\SparkEcommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Domain\obj\Debug\net8.0\SparkEcommerce.Domain.AssemblyInfoInputs.cache
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Domain\obj\Debug\net8.0\SparkEcommerce.Domain.AssemblyInfo.cs
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Domain\obj\Debug\net8.0\SparkEcommerce.Domain.csproj.CoreCompileInputs.cache
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Domain\obj\Debug\net8.0\SparkEcommerce.Domain.sourcelink.json
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Domain\obj\Debug\net8.0\SparkEcommerce.Domain.dll
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Domain\obj\Debug\net8.0\refint\SparkEcommerce.Domain.dll
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Domain\obj\Debug\net8.0\SparkEcommerce.Domain.pdb
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Domain\obj\Debug\net8.0\ref\SparkEcommerce.Domain.dll

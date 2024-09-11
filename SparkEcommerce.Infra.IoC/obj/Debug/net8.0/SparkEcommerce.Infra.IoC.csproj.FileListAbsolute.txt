@@ -1,0 +1,12 @@
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.IoC\bin\Debug\net8.0\SparkEcommerce.Infra.IoC.deps.json
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.IoC\bin\Debug\net8.0\SparkEcommerce.Infra.IoC.dll
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.IoC\bin\Debug\net8.0\SparkEcommerce.Infra.IoC.pdb
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.IoC\obj\Debug\net8.0\SparkEcommerce.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.IoC\obj\Debug\net8.0\SparkEcommerce.Infra.IoC.AssemblyInfoInputs.cache
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.IoC\obj\Debug\net8.0\SparkEcommerce.Infra.IoC.AssemblyInfo.cs
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.IoC\obj\Debug\net8.0\SparkEcommerce.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.IoC\obj\Debug\net8.0\SparkEcommerce.Infra.IoC.sourcelink.json
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.IoC\obj\Debug\net8.0\SparkEcommerce.Infra.IoC.dll
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.IoC\obj\Debug\net8.0\refint\SparkEcommerce.Infra.IoC.dll
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.IoC\obj\Debug\net8.0\SparkEcommerce.Infra.IoC.pdb
+C:\http\plataforma-ecommerce.com\SparkEcommerce.Infra.IoC\obj\Debug\net8.0\ref\SparkEcommerce.Infra.IoC.dll

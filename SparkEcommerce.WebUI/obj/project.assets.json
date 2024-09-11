@@ -1,0 +1,161 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "SparkEcommerce.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "SparkEcommerce.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SparkEcommerce.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SparkEcommerce.Application.dll": {}
+        }
+      },
+      "SparkEcommerce.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SparkEcommerce.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SparkEcommerce.Domain.dll": {}
+        }
+      },
+      "SparkEcommerce.Infra.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "SparkEcommerce.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SparkEcommerce.Infra.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SparkEcommerce.Infra.Data.dll": {}
+        }
+      },
+      "SparkEcommerce.Infra.IoC/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "SparkEcommerce.Application": "1.0.0",
+          "SparkEcommerce.Domain": "1.0.0",
+          "SparkEcommerce.Infra.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SparkEcommerce.Infra.IoC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SparkEcommerce.Infra.IoC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SparkEcommerce.Application/1.0.0": {
+      "type": "project",
+      "path": "../SparkEcommerce.Application/SparkEcommerce.Application.csproj",
+      "msbuildProject": "../SparkEcommerce.Application/SparkEcommerce.Application.csproj"
+    },
+    "SparkEcommerce.Domain/1.0.0": {
+      "type": "project",
+      "path": "../SparkEcommerce.Domain/SparkEcommerce.Domain.csproj",
+      "msbuildProject": "../SparkEcommerce.Domain/SparkEcommerce.Domain.csproj"
+    },
+    "SparkEcommerce.Infra.Data/1.0.0": {
+      "type": "project",
+      "path": "../SparkEcommerce.Infra.Data/SparkEcommerce.Infra.Data.csproj",
+      "msbuildProject": "../SparkEcommerce.Infra.Data/SparkEcommerce.Infra.Data.csproj"
+    },
+    "SparkEcommerce.Infra.IoC/1.0.0": {
+      "type": "project",
+      "path": "../SparkEcommerce.Infra.IoC/SparkEcommerce.Infra.IoC.csproj",
+      "msbuildProject": "../SparkEcommerce.Infra.IoC/SparkEcommerce.Infra.IoC.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "SparkEcommerce.Infra.IoC >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\agl_r\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\http\\plataforma-ecommerce.com\\SparkEcommerce.WebUI\\SparkEcommerce.WebUI.csproj",
+      "projectName": "SparkEcommerce.WebUI",
+      "projectPath": "C:\\http\\plataforma-ecommerce.com\\SparkEcommerce.WebUI\\SparkEcommerce.WebUI.csproj",
+      "packagesPath": "C:\\Users\\agl_r\\.nuget\\packages\\",
+      "outputPath": "C:\\http\\plataforma-ecommerce.com\\SparkEcommerce.WebUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\agl_r\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\http\\plataforma-ecommerce.com\\SparkEcommerce.Infra.IoC\\SparkEcommerce.Infra.IoC.csproj": {
+              "projectPath": "C:\\http\\plataforma-ecommerce.com\\SparkEcommerce.Infra.IoC\\SparkEcommerce.Infra.IoC.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
