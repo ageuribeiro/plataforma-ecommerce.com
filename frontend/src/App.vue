@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <img alt="Brain Synapses Logo" src="assets/logo.jpeg">
+  <HelloWorld msg="Welcome to Brain Synapses"/>
 </template>
 
 <script>
@@ -15,6 +15,9 @@ export default {
 </script>
 
 <style>
+*{
+  background-image: url('assets/logo.jpeg');
+}
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
