@@ -1,4 +1,6 @@
-from flask import Flask, redirect, request, render_template, jsonify  # type: ignore
+"""Importing libraries"""
+import os
+from flask import Flask, jsonify # type: ignore
 
 
 app = Flask(__name__)
@@ -7,7 +9,7 @@ app = Flask(__name__)
 @app.route("/")
 def home():
     """Rota Inicial"""
-    return render_template('index.html')
+    return jsonify({"message":"Bem-vindo à API do E-commerce!"})
 
 
 if __name__ == '__main__':
