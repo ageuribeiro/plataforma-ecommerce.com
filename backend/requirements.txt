@@ -1,0 +1,3 @@
+azure-funtions
+azure-storage-blob
+python-dotenv
